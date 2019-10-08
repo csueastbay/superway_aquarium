@@ -134,7 +134,7 @@ font-family: 'Skranji', cursive;
 }
 h3 {
 font-family: 'Kavivanar', cursive;
-  color: #a9edff;
+  color: black;
   font-size: 24px;}
 
 p {
@@ -145,7 +145,7 @@ p {
 }
 a:link {
   text-decoration: none;
-  color: #a9edff;
+  color: black;
   font-family: 'Kavivanar', cursive;
   text-align: center;
 
@@ -160,6 +160,7 @@ a:hover {
   border-style: ridge;
   border-color: #4b4c47;
   color: #34e3aa;
+
 }
 
 
